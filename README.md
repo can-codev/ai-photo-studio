@@ -55,8 +55,8 @@ The application includes a dark interface with cyan accents and supports switchi
 1. Clone or download the repository:
 
    ```bash
-   git clone https://github.com/can-codev/can-codev-ai-photo-studio.git
-   cd can-codev-ai-photo-studio
+   git clone https://github.com/can-codev/ai-photo-studio.git
+   cd ai-photo-studio
    ```
 
 2. Install the dependencies:
@@ -131,8 +131,8 @@ Uygulama, mavi vurgulara sahip koyu bir arayüz sunar ve Türkçe ile İngilizce
 1. Depoyu klonlayın veya indirin:
 
    ```bash
-   git clone https://github.com/can-codev/can-codev-ai-photo-studio.git
-   cd can-codev-ai-photo-studio
+   git clone https://github.com/can-codev/ai-photo-studio.git
+   cd ai-photo-studio
    ```
 
 2. Gerekli paketleri yükleyin:

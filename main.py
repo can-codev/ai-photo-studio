@@ -1,5 +1,9 @@
 # Coded By can-codev
-
+# Copyright (C) 2026 Can-CoDev
+# This program is free software: you can redistribute it and/or modify
+# it under the terms of the GNU General Public License v3.0 as published by
+# the Free Software Foundation. See <https://www.gnu.org/licenses/gpl-3.0.html>
+# SPDX-License-Identifier: GPL-3.0-or-later
 
 import sys
 import os
